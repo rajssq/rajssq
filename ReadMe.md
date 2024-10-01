@@ -1,5 +1,5 @@
-# 💫 About Me:
-Estudante de programação.
+#  About Me:
+Me chamo Raissa e sou estudante de programação.
 
 
 ## 🌐 Socials:
