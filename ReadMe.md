@@ -1,4 +1,4 @@
-### Olá! me chamo Raissa Nazaré 👋
+### Olá! me chamo Raissa👋
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rajssq/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raissanazaré)
 
