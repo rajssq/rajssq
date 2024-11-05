@@ -1,10 +1,10 @@
 # Olá Mundo! 👋
 ### Sobre mim:
-
-    ➸ 👤 Me chamo Raissa, tenho 19 anos. 
-    ➸ 📚 Atualmente curso Análise e Desenvolvimento de Sistemas.
-    ➸ 🌱 Estou me aperfeiçoando para ser uma desenvolvedora FullStack.
-
+<p>
+    ➸ 👤 Me chamo Raissa, tenho 19 anos.<br>
+    ➸ 📚 Atualmente curso Análise e Desenvolvimento de Sistemas.<br>
+    ➸ 🌱 Estou me aperfeiçoando para ser uma desenvolvedora FullStack.<br>
+</p>
 <div align="center">
     <h3>Tecnologias que estou estudando:</h3>
 </div>
