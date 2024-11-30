@@ -31,10 +31,6 @@
   <img src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" height="40" alt="c# logo"  />
-  <img width="12" />
-  <img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" height="40" alt="Net core logo"  />
  
 
 
