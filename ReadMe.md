@@ -1,4 +1,4 @@
-# 👩‍💻 Raissa Nazaré 
+# 
 ### Sobre mim:
 <p>
     Sou estudante de programação com foco em desenvolvimento web. Estou aprimorando meus conhecimentos e habilidades para ser uma desenvolvedora fullstack. Atualmente curso Análise e Desenvolvimento de Sistemas.
