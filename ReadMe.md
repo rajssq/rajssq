@@ -6,6 +6,9 @@ I like exploring both frontend and backend. I always seek to improve my skills t
 <br>
 <p align="center">
   <img width="300" src="https://skillicons.dev/icons?i=js,ts,react,nodejs,go,cs,dotnet,git&theme=dark"
+  
 </p>
   <img width="305" src="https://github-readme-stats.vercel.app/api?username=rajssq&theme=midnight-purple&show_icons=true">
+
+  [<img width="75" align src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/raissanazar%C3%A9/)
   
