@@ -13,6 +13,7 @@ I like exploring both frontend and backend. I always seek to improve my skills t
   
   <img width="305" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=rajssq&theme=midnight-purple&layout=compact">
 
-  [<img width="75" align src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/raissanazar%C3%A9/)
+[<img width="75" align="right"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/raissanazar%C3%A9/)
 
+<img width="100" align="right"  src="https://komarev.com/ghpvc/?username=rajssqe&color=006bed">
 
