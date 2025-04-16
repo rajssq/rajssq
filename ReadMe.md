@@ -5,7 +5,7 @@ I like exploring both frontend and backend. I always seek to improve my skills t
 </p>
 <br>
 <p align="center">
-  <img width="300" src="https://skillicons.dev/icons?i=js,ts,react,nodejs,go,cs,dotnet,git&theme=dark"
+  <img width="300" src="https://skillicons.dev/icons?i=js,ts,react,nodejs,go,java,git,aws&theme=dark"
   
 </p>
 
