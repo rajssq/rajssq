@@ -39,7 +39,7 @@ I like exploring both frontend and backend. I always seek to improve my skills t
 </p>
 
 <p align="center">
-  <a href="https://www.credly.com/badges/71f4e692-78f8-4bf4-a37f-e03bdde91d17/public_url](https://www.credly.com/badges/71f4e692-78f8-4bf4-a37f-e03bdde91d17/public_url" target="_blank">
+  <a href="https://www.credly.com/badges/71f4e692-78f8-4bf4-a37f-e03bdde91d17/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="150px" alt="GitHub Foundations Badge"/>
   </a>
 </p>
