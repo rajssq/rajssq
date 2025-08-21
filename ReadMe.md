@@ -15,7 +15,7 @@ I like exploring both frontend and backend. I always seek to improve my skills t
 
 <!-- Skill Icons -->
 <p align="center">
-  <img width="300" src="https://skillicons.dev/icons?i=js,ts,react,nodejs,go,git,aws&theme=dark">
+  <img width="300" src="https://skillicons.dev/icons?i=js,ts,react,nodejs,cs,dotnet,git,aws&theme=dark">
 </p>
 
 <!-- GitHub Stats + Linguagens LADO A LADO com <table> -->
