@@ -39,17 +39,3 @@
     <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="150px" alt="GitHub Foundations Badge"/>
   </a>
 </div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/raissanazar%C3%A9/">
-    <img width="120" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a><br>
-</p>
-
-<div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=rajssq&style=flat-square&color=755b25" /></p> 
-</div>
-
-<br>
-<br>
-<br>
