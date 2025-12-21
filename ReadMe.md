@@ -1,5 +1,4 @@
 <br>
-<br>
 
 <div align="center">
   <img  align="center" height="150" src="https://i.imgur.com/a6gMSQl.png" />
@@ -9,16 +8,13 @@
   <samp>
       <br>
       Hi there! I'm <b>Raissa!</b>
+      <br>
+      I am a Software Developer.
   </samp>
 </div>
 
-<div align="center" width="100%">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Code&pause=1000&color=FAD36C&center=true&vCenter=true&width=600&lines=I'm+a+student+of+Systems+Analysis+and+Development.;I+am+a+Software+Engineer." alt="Typing SVG" /></a>
-</div> 
-
 <br>
-<br>
-      
+   
 <div align="center">
   <img height="165" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rajssq&hide_border=true&show_icons=true&rank_icon=github&title_color=f4cd7c&icon_color=f4cd7c&text_color=fff&bg_color=0d1117">
   <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajssq&layout=compact&hide_border=true&title_color=f4cd7c&icon_color=f4cd7c&text_color=fff&bg_color=0d1117">
