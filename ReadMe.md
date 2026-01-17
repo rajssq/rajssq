@@ -14,15 +14,15 @@
 </div>
 
 <br>
-   
-<div align="center">
-  <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajssq&theme=maroongold"/>
-</div>
 
 <div align="center" style="display: inline_block"><br>
  <img width="400" src="https://skillicons.dev/icons?i=js,ts,react,nodejs,cs,dotnet,git&theme=dark">
   
+</div>
+   
+<div align="center">
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajssq&theme=maroongold"/>
 </div>
 
 <br>
