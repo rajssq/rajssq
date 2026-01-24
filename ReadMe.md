@@ -22,6 +22,9 @@
    
 <div align="center">
   <br>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rajssq&theme=gruvbox-duo&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajssq&layout=compact&hide_border=true&title_color=f4cd7c&icon_color=f4cd7c&text_color=fff&bg_color=0d1117"/>
+  <br>
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajssq&theme=maroongold"/>
 </div>
 
